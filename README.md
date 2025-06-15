@@ -14,7 +14,7 @@ This is an interactive 3D solar system simulation built using Three.js that accu
 - **Visual Effects**:
   - Glowing sun with light emission
   - Planetary rings (Saturn, Uranus)
-  - Asteroid belt between Mars and Jupiter
+  - Asteroid belt 
   - Starfield background with nebula effects
 
 ## How to Run
